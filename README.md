@@ -5,7 +5,7 @@
 - CSS (Cascading Style Sheets)
 - javascript
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e476a31x61u8pom0ueyq6gd8b18enkko07cdwb2leqd&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/pMYQAlYxa80AAAAC/coding.gif">
 
 ## Installation
 
