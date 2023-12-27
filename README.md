@@ -1,1 +1,1 @@
-# LEGEND-Sidhu-Moose-Wala-
+# LEGEND (Sidhu-Moose-Wala)
