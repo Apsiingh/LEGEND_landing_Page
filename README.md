@@ -25,4 +25,4 @@ Sidhu's influence extended beyond music. He was a vocal advocate for farmers' ri
 ### Remembering the Legend:
 Sidhu's untimely demise sent shockwaves through the music world and beyond. He is mourned by millions of fans worldwide, who continue to celebrate his music and legacy.
 
-### link of the Project--[clickon me to open webpage](https://apsiingh.github.io/LEGEND-Sidhu-Moose-Wala-/)
+### link of the Project--[clickon me to open webpage](https://apsiingh.github.io/LEGEND_landing_Page/)
