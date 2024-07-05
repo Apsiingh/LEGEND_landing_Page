@@ -204,8 +204,8 @@ transition-timing-function: linear;
     justify-content: center;
     z-index:12;
     flex-direction: column;
-    background: rgb(0,0,0);
-background: linear-gradient(0deg, rgb(27, 26, 26) 19%, rgb(87, 83, 83) 64%, rgb(209, 208, 208) 85%);
+background: rgb(2,0,36);
+background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(169,159,201,1) 39%, rgba(255,255,255,1) 100%);
 }
 #con-info{
     
